@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+  <display-name>Education</display-name>
+  <description>
+     Servlet, JSP test
+  </description>
+  <welcome-file-list>
+   <welcome-file>test.html</welcome-file>
+  </welcome-file-list>
+  <!--Æ¯Á¤ servlet¿¡ ´ëÇÑ ¼³Á¤ºÎºÐ -->
+  <servlet>
+  	<servlet-name>first</servlet-name>
+  	<servlet-class>FirstServlet</servlet-class>
+  </servlet>
+  <!--Æ¯Á¤ ¿äÃ»¿¡ ´ëÇØ ½ÇÇàÇÒ ¼­ºí¸´À» ÁöÁ¤
+  <servlet-mapping>
+   <servlet-name>first</servlet-name>
+   <url-pattern>/test</url-pattern>
+  </servlet-mapping>
+  <-->
+<!--  
+  <servlet>
+  	<servlet-name>initparam</servlet-name>
+  	<servlet-class>InitParamTestServlet</servlet-class>
+  	<init-param>
+  	   <param-name>account</param-name>
+  	   <param-value>purum</param-value>
+  	</init-param> 
+  	<init-param>
+  	   <param-name>password</param-name>
+  	   <param-value>admin123</param-value>
+  	</init-param>     
+  </servlet>
+
+  
+  <listener>
+      <listener-class>TestRequestListener</listener-class>	
+</listener>
+
+<listener>
+      <listener-class>TestSessionListener</listener-class>	
+</listener>
+
+<listener>
+      <listener-class>TestSessionAttributeListener</listener-class>	
+</listener>
+
+<listener>
+      <listener-class>TestServletContextListener</listener-class>	
+</listener>
+ --> 
+
+  
+
+
+</web-app>

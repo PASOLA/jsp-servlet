@@ -1,0 +1,23 @@
+[2011-11-14 14:48:04] [info] Service Tomcat5 name Apache Tomcat
+[2011-11-14 14:48:05] [info] Service Tomcat5 installed
+[2011-11-14 14:48:05] [info] Procrun finished.
+[2011-11-14 14:48:05] [info] Updating service...
+[2011-11-14 14:48:05] [info] Service Tomcat5 updated
+[2011-11-14 14:48:05] [info] Update service finished.
+[2011-11-14 14:48:05] [info] Procrun finished.
+[2011-11-14 14:48:07] [info] Updating service...
+[2011-11-14 14:48:07] [info] Service Tomcat5 updated
+[2011-11-14 14:48:07] [info] Update service finished.
+[2011-11-14 14:48:07] [info] Procrun finished.
+[2011-11-14 14:48:08] [info] Updating service...
+[2011-11-14 14:48:08] [info] Service Tomcat5 updated
+[2011-11-14 14:48:08] [info] Update service finished.
+[2011-11-14 14:48:08] [info] Procrun finished.
+[2011-11-14 14:48:16] [info] Running Service...
+[2011-11-14 14:48:16] [info] Starting service...
+[2011-11-14 14:48:18] [info] Service started in 1453 ms.
+[2011-11-14 17:03:52] [info] Console SHUTDOWN event signaled
+[2011-11-14 17:03:52] [info] Stopping service...
+[2011-11-14 17:03:53] [info] Service stopped.
+[2011-11-14 17:03:53] [info] Run service finished.
+[2011-11-14 17:03:53] [info] Procrun finished.
