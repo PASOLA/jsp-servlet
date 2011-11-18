@@ -1,0 +1,15 @@
+<listener>
+      <listener-class>TestRequestListener</listener-class>	
+</listener>
+
+<listener>
+      <listener-class>TestSessionListener</listener-class>	
+</listener>
+
+<listener>
+      <listener-class>TestSessionAttributeListener</listener-class>	
+</listener>
+
+<listener>
+      <listener-class>TestServletContextListener</listener-class>	
+</listener>
